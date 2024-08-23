@@ -29,7 +29,7 @@ def casual_conversation(user_input):
         "hello": "Hello! How can I assist you today?",
         "hi": "Hi there! What can I do for you?",
         "hey": "Hey! How can I help you today?",
-        "what's your name": "I'm your Showbaby. You can call me Chatbot!",
+        "what's your name": "I'm your Personal Assistant. You can call me Showbaby!",
         "where are you from": "I exist in the digital world, so I’m everywhere and nowhere at once!",
         "what do you do": "I’m here to help you with information, play videos, and much more. Just ask!",
         "can you help me": "Absolutely! Just let me know what you need help with.",
@@ -96,7 +96,7 @@ def chatbot_response(user_input):
         return "I'm sorry, I didn't understand that. Can you please rephrase?"
 
 # Chat loop
-print("Hello! I'm your Showbaby. How can I help you today?")
+print("Hello! I'm your Personal Assistant. How can I help you today?")
 print("You can ask me to play videos on YouTube, search on Google, or visit Amazon or Flipkart.")
 
 while True:
